@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NicoBaldovino22
-- 👀 I’m interested in Applied Physics and Engineering
-- 🌱 I’m currently learning Biological Physics
-- 💞️ I’m looking to collaborate on Python programming
+- 👋 Hi, I’m @NicoBaldovino22 - Nico Baldovino
+- 👀 I’m interested in Applied Physics, Mathematics, and Engineering
+- 🌱 I’m currently learning Biological Physical Modeling and Microcontroller Programming
+- 💞️ I’m looking to collaborate on Python (Jupyter & Spyder) and Arduino code/script
 - 📫 How to reach me nico.baldovino@oit.edu
 
 <!---
