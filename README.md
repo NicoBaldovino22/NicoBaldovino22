@@ -2,7 +2,7 @@
 - 👀 I’m interested in Applied Physics, Mathematics, and Engineering
 - 🌱 I’m currently learning Biological Physical Modeling and Microcontroller Programming
 - 💞️ I’m looking to collaborate on Python (Jupyter & Spyder) and Arduino code/script
-- 📫 How to reach me nico.baldovino@oit.edu
+- 📫 How to reach me nico.baldovino28@gmail.com
 
 <!---
 NicoBaldovino22/NicoBaldovino22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
