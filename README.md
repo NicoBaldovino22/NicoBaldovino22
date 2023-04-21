@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NicoBaldovino22 - Nico Baldovino
 - 👀 I’m interested in Applied Physics, Mathematics, and Engineering
-- 🌱 I’m currently learning Biological Physical Modeling and Microcontroller Programming
-- 💞️ I’m looking to collaborate on Python (Jupyter & Spyder) and Arduino code/script
+- 🌱 I’m have learned Biological Physical Modeling and Microcontroller Programming through Python and Arduino
+- 💞️ I’m looking to collaborate on Python (Jupyter & Spyder) and Arduino code/script with fellow engineers
 - 📫 How to reach me nico.baldovino28@gmail.com
 
 <!---
